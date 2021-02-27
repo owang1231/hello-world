@@ -1,2 +1,2 @@
 # hello-world
-CSE360 github demo
+Hi, my name is Olivia.
